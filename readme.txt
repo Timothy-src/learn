@@ -1,1 +1,1 @@
-Yayaman ako
+Yayaman ako not now, not today
