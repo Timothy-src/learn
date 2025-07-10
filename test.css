@@ -1,0 +1,33 @@
+body {
+    background-color: #121212;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0 0 40px 0; 
+    bottom: 0;
+    display: flex;
+    justify-content: center; /* ➤ centers horizontally */
+    align-items: center;  /* or use center to align vertically */
+    flex-direction: column;  /* ➤ stack children vertically */
+    /* ensures full height */
+}
+
+
+.lyrics {
+    
+    margin-top: 60px;
+    max-width: 700px;
+    font-size: 13px;
+    line-height: 1.6;
+    text-align: justify;
+    background-color: #2C2C2C;
+    color: ghostwhite;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #fff;
+    
+}
+
+.title {
+    color: ghostwhite;
+}
+
