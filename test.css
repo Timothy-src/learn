@@ -1,0 +1,33 @@
+body {
+    background-color: #F9F9F9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0 0 40px 0; 
+    bottom: 0;
+    display: flex;
+    justify-content: center; 
+    align-items: center;  
+    flex-direction: column;  
+    
+}
+
+
+.lyrics {
+    
+    margin-top: 60px;
+    max-width: 700px;
+    font-size: 13px;
+    line-height: 1.6;
+    text-align: justify;
+    background-color: #C0C0C0;
+    color: ghostwhite;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 3px black;
+    
+}
+
+.title {
+    color: black;
+}
+
