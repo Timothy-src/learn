@@ -1,1 +1,1 @@
-Yayaman ako not now, not today hahahaha
+Yayaman ako not now, not today, nothing nada
