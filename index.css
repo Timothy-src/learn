@@ -3,6 +3,3 @@ a {
     color: black;
 }
 
-a hover::after{
-    color: blue;
-}
