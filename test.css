@@ -11,6 +11,10 @@ body {
     /* ensures full height */
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
 
 .lyrics {
     
